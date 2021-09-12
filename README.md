@@ -1,4 +1,4 @@
-# renamerProjectgit
+# renamerProject
 
 Aplikasi ini dibuat menggunakan PHP Native (Karena simpel, dan tidak memerlukan framework), Javascript, JQUERY.
 Untuk menggunakannya cukup simpel :
