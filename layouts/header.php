@@ -1,14 +1,6 @@
 <!-- Page Header -->
 <div class="page-header back-to-top">
     <div class="search-form">
-        <form method="GET">
-            <div class="input-group">
-                <input type="text" name="search" id="cariProjek" class="form-control search-input" placeholder="Ketikkan sesuatu ...">
-                <span class="input-group-btn">
-                    <button class="btn btn-default" id="close-search" type="button"><i class="icon-close"></i></button>
-                </span>
-            </div>
-        </form>
     </div>
     <nav class="navbar navbar-default navbar-expand-md">
         <div class="container-fluid">
@@ -29,7 +21,6 @@
                 <ul class="nav navbar-nav mr-auto">
                     <li class="collapsed-sidebar-toggle-inv"><a href="javascript:void(0)" id="collapsed-sidebar-toggle-button"><i class="fas fa-bars"></i></a></li>
                     <li><a href="javascript:void(0)" id="toggle-fullscreen"><i class="fas fa-expand"></i></a></li>
-                    <li><a href="javascript:void(0)" id="search-button"><i class="fas fa-search"></i></a></li>
                 </ul>
             </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
