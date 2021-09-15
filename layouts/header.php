@@ -8,7 +8,7 @@
             <div class="navbar-header">
                 <div class="logo-sm">
                     <a href="javascript:void(0)" id="sidebar-toggle-button"><i class="fas fa-bars"></i></a>
-                    <a class="logo-box" href="index.html"><span>concept</span></a>
+                    <a class="logo-box" href="index.html"><span>ReD | Projects</span></a>
                 </div>
                 <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
                     <i class="fas fa-angle-down"></i>

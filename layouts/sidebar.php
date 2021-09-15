@@ -27,7 +27,7 @@
 <div class="page-content">
     <div class="secondary-sidebar">
         <div class="secondary-sidebar-bar">
-            <a href="#" class="logo-box">ReDClare</a>
+            <a href="#" class="logo-box">ReD | Projects</a>
         </div>
         <div class="secondary-sidebar-menu">
             <ul class="accordion-menu">
